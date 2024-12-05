@@ -1,1 +1,1 @@
-# Python-project-
+# create qr code using pyqrcode 
